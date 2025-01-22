@@ -1,0 +1,11 @@
+package main.java.com.hasandag.modification_example;
+
+import lombok.Data;
+import lombok.ToString;
+
+@Data
+@ToString
+public class Garage {
+    Car car1;
+    Car car2;
+}
