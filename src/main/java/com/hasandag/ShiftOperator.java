@@ -1,4 +1,4 @@
-package main.java.com.hasandag;
+package com.hasandag;
 
 public class ShiftOperator {
 

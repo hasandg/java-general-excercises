@@ -1,3 +1,5 @@
+package com.hasandag.leetcode;
+
 public class ShiftOperator {
 
     public static void main(String args[]) {

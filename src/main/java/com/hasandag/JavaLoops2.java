@@ -1,6 +1,6 @@
-package main.java.com.hasandag;
+package com.hasandag;
 
-import java.util.*;
+import java.util.Scanner;
 
 class JavaLoops2 {
     public static void main(String []argh){

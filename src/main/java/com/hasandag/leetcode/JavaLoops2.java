@@ -1,5 +1,6 @@
-import java.util.*;
-import java.io.*;
+package com.hasandag.leetcode;
+
+import java.util.Scanner;
 
 class JavaLoops2 {
     public static void main(String []argh){

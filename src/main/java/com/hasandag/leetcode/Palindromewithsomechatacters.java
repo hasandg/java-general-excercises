@@ -1,3 +1,5 @@
+package com.hasandag.leetcode;
+
 public class Palindromewithsomechatacters {
 
     public static void main(String[] args) {

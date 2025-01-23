@@ -1,4 +1,4 @@
-package main.java.com.hasandag;
+package com.hasandag;
 
 public class JavaSyncronizedBlocks {
     public static void main(String[] args) {

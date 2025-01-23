@@ -1,11 +1,12 @@
-package main.java.com.hasandag;
+package com.hasandag;
 
-import java.io.*;
-import java.text.*;
+import java.io.IOException;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
 import java.time.LocalDate;
-import java.util.*;
-
-import static java.util.stream.Collectors.joining;
+import java.util.Calendar;
+import java.util.GregorianCalendar;
+import java.util.Locale;
 
 class Result {
 

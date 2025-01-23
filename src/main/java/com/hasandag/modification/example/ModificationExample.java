@@ -1,6 +1,6 @@
-package main.java.com.hasandag.modification_example;
+package com.hasandag.modification.example;
 
-public class Main {
+public class ModificationExample {
     public static void main(String[] args) {
 
         Garage garage = new Garage();
@@ -21,3 +21,8 @@ public class Main {
 
     }
 }
+
+
+
+
+

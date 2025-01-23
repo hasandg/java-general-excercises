@@ -1,3 +1,5 @@
+package com.hasandag.leetcode;
+
 public class JavaSyncronizedBlocks {
     public static void main(String[] args) {
         final JavaSyncronizedBlocks jsb = new JavaSyncronizedBlocks();
