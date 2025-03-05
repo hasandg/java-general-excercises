@@ -1,7 +1,5 @@
 package com.hasandag.profile;
 
-import org.apache.commons.lang3.time.StopWatch;
-
 import static com.hasandag.profile.ProfileApp.computeFibonacci;
 
 public class ProfilerTimeWatchAppWithNanoSec {
